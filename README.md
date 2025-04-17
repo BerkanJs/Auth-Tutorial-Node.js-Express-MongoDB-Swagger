@@ -151,7 +151,7 @@ Pull requests are welcome! Feel free to report bugs, suggest improvements, or co
 
 ---
 
-**Developed by Berkan**  
+**Developed by BerkanJS**  
 To integrate with frontend, don't forget to set the `CLIENT_URL` in your `.env`:
 
 ```bash
